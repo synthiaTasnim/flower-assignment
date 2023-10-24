@@ -1,0 +1,144 @@
+
+.header{
+    background: rgba(229, 84, 115, 0.10);
+    width: 1920px;
+height: 850px;
+flex-shrink: 0;
+}
+.banner{display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 30px 0px 150px;
+}
+.banner .tulip{
+    width: 635px;
+height: 800px;
+flex-shrink: 0;
+
+}
+.banner-greet{
+    color: #272727;
+
+
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.banner-content{
+    max-width: 708px;
+    max-height: 288px;
+}
+.btn-primery{border: 0;
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color: #FFF;
+
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.banner-para{
+    color: rgba(39, 39, 39, 0.60);
+
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+}
+.section-title{align-items: center;
+    color: #272727;
+
+text-align: center;
+
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.feature-description{ align-items: center;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+padding: 30px 50px;
+}
+.flower3{align-items: center;
+    margin: 130px 200px;
+    padding:50px;
+display: flex;
+gap:24px;
+}
+.flower1{padding: 40px;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);;
+width: 464px;
+height: 538px;
+flex-shrink: 0;
+padding:50px;
+}
+.flower2{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+width: 464px;
+height: 538px;
+
+padding:50px;
+
+ 
+}
+.flower4{
+    
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+width: 464px;
+height: 538px;
+flex-shrink: 0;
+padding:50px;
+;
+
+}
+.flwrttl{
+    color: #272727;
+text-align: center;
+padding: 150px ;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px; /* 145.833% */
+text-decoration-line: underline;
+}
+.purchase{width: 1440px;
+    margin: 130px 200px;
+    height: 420px;
+    flex-shrink: 0;
+    align-items: center;
+    gap: 300px;
+    padding: 59px;
+    display: flex;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+}
+.icon1{padding: 30px ;
+    width: 88px;
+height: 88px;
+
+}
+.purchase-descrip{
+    color: rgba(39, 39, 39, 0.80);
+
+text-align: center;
+
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px; 
+}
